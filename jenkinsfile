@@ -6,7 +6,7 @@ stage("git"){
 
 steps{
 
-git branch: 'main', url: 'https://github.com/R807989/hrmsnew.git'
+
 }
 }
 }
